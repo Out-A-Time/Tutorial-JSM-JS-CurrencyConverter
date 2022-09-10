@@ -1,0 +1,24 @@
+{
+  "name": "tutorial-jsm-js-currencyconverter",
+  "version": "1.0.0",
+  "description": "Tutorial by JavaScriptMastery on YT: https://youtu.be/mlb525FgU3k",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Out-A-Time/Tutorial-JSM-JS-CurrencyConverter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Out-A-Time/Tutorial-JSM-JS-CurrencyConverter/issues"
+  },
+  "homepage": "https://github.com/Out-A-Time/Tutorial-JSM-JS-CurrencyConverter#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2"
+  }
+}
